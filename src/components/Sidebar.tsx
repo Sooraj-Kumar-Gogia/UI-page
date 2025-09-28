@@ -7,7 +7,7 @@ const Sidebar: React.FC = () => {
       {/* Profile Card */}
       <div className="profile-card-refined">
         <img
-          src="/src/assets/profile.webp"
+          src="/assets/profile.webp"
           alt="Profile"
           className="profile-photo-circle"
         />
