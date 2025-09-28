@@ -23,7 +23,7 @@ export default function Header() {
           <input type="text" className="header-searchinput" placeholder="Search" />
         </div>
         <button className="header-resume-btn">Resume Builder</button>
-        <img src="/src/assets/react.svg" alt="User" className="header-avatar-refined" />
+        <img src="/src/assets/profile.webp" alt="User" className="header-avatar-refined" />
       </div>
     </header>
   );
