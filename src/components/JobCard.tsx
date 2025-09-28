@@ -19,7 +19,7 @@ const JobCard: React.FC<JobCardProps> = ({
       {promoted && <div className="promoted-tag">Promoted</div>}
       <div className="job-header">
         <img
-          src="/src/assets/Teams.png"
+          src="/src/assets/Teams.jpg"
           alt="Company Logo"
           className="company-logo"
         />
