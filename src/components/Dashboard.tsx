@@ -7,7 +7,7 @@ import "../App.css";
 
 const Dashboard: React.FC = () => {
   // Example jobs data
-  const jobs = Array.from({ length: 4}, (_, i) => ({
+  const jobs = Array.from({ length: 4}, () => ({
     company: "Teams",
     title: "UI/UX Designer",
     location: "Seattle, USA (Remote)",
